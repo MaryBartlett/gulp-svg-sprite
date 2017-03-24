@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons / checkbox-tick</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons-/-checkbox-tick" fill="#009A2E">
+            <polyline id="tick" points="4 16.8959018 8.14075507 12.1622098 12.4086192 16.8959018 23.57359 6 27.7781437 9.48207063 11.107653 25.1085608"></polyline>
+        </g>
+    </g>
+</svg>

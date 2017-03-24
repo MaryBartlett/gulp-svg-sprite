@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons / badge-recency2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="Icons-/-badge-recency2" stroke-width="2" stroke="#232437">
+            <polyline id="heartbeat" transform="translate(16.000000, 16.000000) scale(-1, 1) translate(-16.000000, -16.000000) " points="1 16 10 16 11.5 11 14 23 17 2 19 30 21 16 31 16"></polyline>
+        </g>
+    </g>
+</svg>
